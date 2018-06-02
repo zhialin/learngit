@@ -1,4 +1,4 @@
 <?php
 
-echo "dsadadadsa DRL";
+echo "Creating a new branch is quick.";
 ?>
